@@ -6,7 +6,7 @@ members = [
   "taos-macros",
   "taos-sys",
   "taos-ws",
-  "taos-ws-sys",
+  # "taos-ws-sys",
   "taos-ws-py",
 ]
 
